@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! I am Spacey! ⭐
 
-<!--
-**SpaceyLux/SpaceyLux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a code developer, paging and also study obviously I think .. I am specifically working on a bot for discord and from time to time I usually help others with their code.
 
-Here are some ideas to get you started:
+### Programming languages I work with 📰
+- ✅ Node.js
+- ✅ Html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me 🔎
+- ☕ **Years** | 14
+- 📬 **Name** | Diego
+
+It seems that you made it to the end friend .. Well thanks for visiting me! I hope you come back I say.. You know.. See you! 💤
+
