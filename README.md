@@ -5,6 +5,7 @@ I am a code developer, paging and also study obviously I think .. I am specifica
 ### Programming languages I work with 📰
 - ✅ Node.js
 - ✅ Html
+- ✅ JavaScript
 
 ### About me 🔎
 - ☕ **Years** | 14
