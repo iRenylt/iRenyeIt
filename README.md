@@ -3,7 +3,6 @@
 I am a code developer, paging and also study obviously I think .. I am specifically working on a bot for discord and from time to time I usually help others with their code.
 
 ### Programming languages I work with 📰
-- ✅ Node.js
 - ✅ Html
 - ✅ JavaScript
 
