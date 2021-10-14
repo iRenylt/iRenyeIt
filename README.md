@@ -1,4 +1,4 @@
-### Hi! I am Luz or HouldxLuz! ⭐
+### Hi! I am Luz or Kennye ⭐
 
 I am a code developer, paging and also study obviously I think .. I am specifically working on a bot for discord and from time to time I usually help others with their code.
 
