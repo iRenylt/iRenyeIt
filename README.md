@@ -7,7 +7,7 @@ I am a code developer, paging and also study obviously I think .. I am specifica
 - ✅ JavaScript
 
 ### About me 🔎
-- ☕ **Years** 14
+- ☕ What did you expect? I'm not that funny
 
 It seems that you made it to the end friend .. Well thanks for visiting me! I hope you come back I say.. You know.. See you! 💤
 
