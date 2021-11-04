@@ -13,3 +13,5 @@ It seems that you made it to the end friend .. Well thanks for visiting me! I ho
 
 **My Discord Bot**
 - **[Kiwwi Invite](https://bit.ly/Kiwwibot)**
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RennyeLux&show_icons=true&theme=tokyonight)
