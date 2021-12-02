@@ -15,7 +15,13 @@
 
 - I'm a bot reviewer on a Discord bot list, it's kind of interesting 🔎
 
-![Lux's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyelux&show_icons=true)
+![Lux's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyelux&theme=tokyonight&show_icons=true)
+
+<b><p class="anchor">Languages I use</p></b>
+
+- You can see and nothing else I suppose.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyelux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
   </html>
