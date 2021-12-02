@@ -15,7 +15,8 @@
 
 - I'm a bot reviewer on a Discord bot list, it's kind of interesting 🔎
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RennyeLux&show_icons=true&theme=tokyonight)
+![Lux's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyelux&show_icons=true)
+
   
   </html>
 
