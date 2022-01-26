@@ -3,7 +3,7 @@
 
 </body
 
-<p class="center">I am a web developer and I also program bots for discord, I know some programming languages and I am from Ecuador. I'm not someone who usually writes a lot but I do like to program and study, things that are great. ✌</p>
+<p class="center">I am a web developer and I also program bots for discord, I know some programming languages. I'm not someone who usually writes a lot but I do like to program and study, things that are great. ✌</p>
 
 - I am currently a developer of a discord bot that you can see if you **[Click here](https://bit.ly/Kiwwibot)**
 
