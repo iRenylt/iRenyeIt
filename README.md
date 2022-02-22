@@ -13,13 +13,13 @@
 
 - Just look the "Chill Place" is really great completyn'
 
-![Lux's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyelux&theme=tokyonight&show_icons=true)
+![Lux's GitHub stats](https://github-readme-stats.vercel.app/api?username=zrenye&theme=tokyonight&show_icons=true)
 
 <b><p class="anchor">Languages I use</p></b>
 
 - You can see and nothing else I suppose.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyelux&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrenye&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
   </html>
