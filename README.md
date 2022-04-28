@@ -7,7 +7,7 @@
 
 - I am currently a developer of a discord bot that you can see if you **[Click here](https://bit.ly/KayshiInvite)**
 
-- ✅ I Program with HTML & CSS, JavaScript and Python
+- ✅ I Program with HTML & CSS, JavaScript
 
 - Also develop an about with html you can see it **[Here](https://renye.com/)**
 
